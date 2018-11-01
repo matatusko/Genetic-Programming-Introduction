@@ -13,3 +13,7 @@ Note: I'm having troubles loading up the notebooks I've uploaded here on github,
 ### 1 - String Reproduction
 
 Use genetic programming to recreate a given string. Code heavily inspired by the [first tutorial](https://blog.sicara.com/getting-started-genetic-algorithms-python-tutorial-81ffa1dd72f9) on GP I've went through by Louis Nicolle. Really well written so I would highly recommend having a read. I've editted a couple of thing here and there, but mostly is the same thing.
+
+### 2 - Maximizing function
+
+Inspired by Ahmed Gad's [blog post](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6). Basically the idea is to have genetic algorithm to learn the weights in order to maximize a function given 6 inputs. Or, in other words, to see if GA is able to figure out that multiplying positive numbers with high weights will yield higher results, but negative numbers should be multiplied by smaller and also negative number.
