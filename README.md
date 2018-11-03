@@ -21,3 +21,7 @@ Inspired by Ahmed Gad's [blog post](https://towardsdatascience.com/genetic-algor
 #### 3 - Logistic Regression - binary classification
 
 So naturally, after getting some hands-on practice, it's time for the next step and that's logistic regression! Now, this is a mix of what I've learnt from 1) and 2) written from start to bottom by myself with no tutorials to follow, so I'm rather proud of that. I did run it on the populat [Iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set), but since I've wanted to start with binary classification before moving onto OneVsAll, I've removed one flow species and the accuracy on the test was was 97.5% after 100 generations, so I think the result is pretty good :)
+
+#### 4 - Logistic Regression - OneVsAll multiclass classifier
+
+Naturally, the next step after binary logistic regression is OneVsAll, so that we can classify multiple labels. As before, we'll use the same Iris dataset. The accuracy here was rather low, but that only means more breeding and mutations are needed to improve the score! 
