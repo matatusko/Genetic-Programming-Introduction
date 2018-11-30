@@ -25,3 +25,7 @@ So naturally, after getting some hands-on practice, it's time for the next step 
 #### 4 - Logistic Regression - OneVsAll multiclass classifier
 
 Naturally, the next step after binary logistic regression is OneVsAll, so that we can classify multiple labels. As before, we'll use the same Iris dataset. The accuracy here was rather low, but that only means more breeding and mutations are needed to improve the score! 
+
+#### 5 - Found a book to learn from!
+
+Ok, I've finally found a book I like on genetic programming that so far introduces the concept nicely with satisfactory learning curve. And hopefully it will stay like this :) The book in question is Dan Simon's [Evolutionary Optimization Algorithms](https://www.amazon.com/Evolutionary-Optimization-Algorithms-Dan-Simon/dp/0470937416) and thus all the following notebooks will be me doing exercises from this book.
